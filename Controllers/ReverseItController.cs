@@ -2,7 +2,7 @@
 //10-26-2022
 //REVERSE IT - ENDPOINTS
 //THIS CONTROLLER ALLOWS THE USER TO INPUT INFORMATION VIA THE URL, THEN THE INFORMATION THAT THEY ENTER IS REPEATED TO THEM IN REVERSE,  FEATURES DATA VALIDATION ALTHOUGH IT STILL REVERSES STRINGS, PRESENTING A DIFFERENT PROMPT
-//PEER REVIEW BY : 
+//PEER REVIEW BY : John Magpantay   notes : Code works well, data validation was there! I like how its unique, You put the number and the the number is already outputed reversed, Clean code and goodjob overall!
 
 
 using Microsoft.AspNetCore.Mvc;
