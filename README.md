@@ -2,6 +2,8 @@
 
 THIS CONTROLLER ALLOWS THE USER TO INPUT INFORMATION VIA THE URL, THEN THE INFORMATION THAT THEY ENTER IS REPEATED TO THEM IN REVERSE,  FEATURES DATA VALIDATION ALTHOUGH IT STILL REVERSES STRINGS, PRESENTING A DIFFERENT PROMPT "'olleH' ALTHOUGH THAT IS NOT AT NUMBER"
 
+PEER REVIEW BY : John Magpantay   notes : Code works well, data validation was there! I like how its unique, You put the number and the the number is already outputed reversed, Clean code and goodjob overall!
+
 This program can be ran easily , setting up web API's is fun! First, after obtaining the repository link for this program you will find "ReverseItController" in the explorer on the left. This is the only controller that is relevant for the project. It contains comments in the top regarding the project, although these comments are useless to the user
 
 In order to use "ReverseItController" correctly , first you must debug your system , debugging your system is possible by press the "fn" key at the same time as the "f5" key , although this does not always work the first time
